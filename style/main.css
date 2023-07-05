@@ -1,0 +1,10 @@
+div{
+  background-color: lime;
+  padding: 20px;
+  margin: 20px;
+}
+.header{
+   text-transform: capitalize;
+   text-overflow: ellipsis;
+   padding: 20px;
+}
